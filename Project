@@ -1,0 +1,18 @@
+Step 1 - Create a directory named vagrant-vms
+
+Command: mkdir vagrant
+
+Step 2 - Clone the source code into a directory.
+
+Command: git clone <source code>
+
+Step 3 - Open sublime text editor or visual studio code.
+
+Step 4 - When the shell scripts in the vagrantfile pan out to be accurate, bring up the VMs on which the services will run on.
+
+Step 5 - Log in via browser to validate that the stack runs as expected. NGINX --> Tomcat --> RabbitMQ --> Memcached --> Mysql
+
+
+
+
+
